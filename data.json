@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Dharshini V",
-    "eyebrow": "Portfolio · 2026",
+    "eyebrow": "Portfolio ",
     "roles": [
       "Full-stack developer",
       "Cyber security student",
@@ -32,11 +32,6 @@
       "value": "130+",
       "note": "problems solved"
     },
-    {
-      "label": "Podium finishes",
-      "value": "3",
-      "note": "Hack ML, Freshathon, Createathon"
-    }
   ],
   "about": {
     "title": "Building software, and learning how to break and defend it.",
@@ -49,7 +44,7 @@
     {
       "title": "Full-Stack Developer Intern",
       "org": "DevHorizon Technologies Pvt. Ltd. · On-site",
-      "date": "July 2026 · 4 months",
+      "date": "July 2026 · 3 months",
       "summary": "Developed responsive web applications, REST APIs and database solutions while collaborating with a team in an Agile development environment.",
       "skills": [
         "React.js",
