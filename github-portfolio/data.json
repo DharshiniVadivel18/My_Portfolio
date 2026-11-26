@@ -1,0 +1,294 @@
+{
+  "profile": {
+    "name": "Dharshini V",
+    "eyebrow": "Portfolio · 2026",
+    "roles": [
+      "Full-stack developer",
+      "Cyber security student",
+      "Forensics and CTF enthusiast",
+      "Problem solver"
+    ],
+    "lede": "B.E. Computer Science (Cyber Security) student at Sri Eshwar College of Engineering. I build web applications with React, Node.js and MongoDB, and I enjoy digital forensics and capture-the-flag challenges.",
+    "github": "https://github.com/DharshiniVadivel18",
+    "linkedin": "https://www.linkedin.com/in/dharshini-vadivel/",
+    "email": "dharshinivharshiniv7@gmail.com",
+    "phone": "8870510992",
+    "contactHeading": "Have a role or a project in mind? Let's talk.",
+    "footer": "B.E. CSE (Cyber Security) · Sri Eshwar College of Engineering"
+  },
+  "stats": [
+    {
+      "label": "CGPA",
+      "value": "8.47",
+      "note": "B.E. CSE (Cyber Security)"
+    },
+    {
+      "label": "SkillRack",
+      "value": "870+",
+      "note": "problems solved"
+    },
+    {
+      "label": "LeetCode",
+      "value": "130+",
+      "note": "problems solved"
+    },
+    {
+      "label": "Podium finishes",
+      "value": "3",
+      "note": "Hack ML, Freshathon, Createathon"
+    }
+  ],
+  "about": {
+    "title": "Building software, and learning how to break and defend it.",
+    "paras": [
+      "I study Computer Science with a specialisation in Cyber Security. My time splits between shipping full-stack web applications and working through forensics and CTF problems.",
+      "My internship gave me four months of on-site, Agile team experience building responsive front ends, REST APIs and database-backed features with the MERN stack. Outside class I practise data structures and algorithms on SkillRack and LeetCode."
+    ]
+  },
+  "experience": [
+    {
+      "title": "Full-Stack Developer Intern",
+      "org": "DevHorizon Technologies Pvt. Ltd. · On-site",
+      "date": "July 2026 · 4 months",
+      "summary": "Developed responsive web applications, REST APIs and database solutions while collaborating with a team in an Agile development environment.",
+      "skills": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "REST APIs",
+        "Git & GitHub",
+        "Database management",
+        "Agile methodology",
+        "SDLC",
+        "Debugging",
+        "Team collaboration"
+      ],
+      "linkLabel": "View internship certificate",
+      "linkUrl": "https://drive.google.com/drive/folders/1abrqs6YNhoyhDPVurVwpHVvsdPUB-Rwa?usp=sharing"
+    }
+  ],
+  "projects": [
+    {
+      "cat": "Security",
+      "year": "2026",
+      "title": "Forensics CTF Challenge",
+      "desc": "A steganography-based CTF challenge. Players analyse an image file, detect its hidden layers and extract the embedded flag. Focused on digital forensics, hidden data extraction and investigative problem-solving.",
+      "tags": [
+        "Steganography",
+        "Digital forensics",
+        "CTF"
+      ],
+      "url": "https://github.com/DharshiniVadivel18/CTFQuest_Dharshini-V"
+    },
+    {
+      "cat": "AI · Web",
+      "year": "2024",
+      "title": "Chat Monitor",
+      "desc": "An AI-based monitoring tool that scans chat conversations in real time to detect offensive, abusive or suspicious messages. It helps keep educational and collaborative platforms safe and respectful.",
+      "tags": [
+        "AI moderation",
+        "Real-time",
+        "Frontend + Backend"
+      ],
+      "url": "https://github.com/DharshiniVadivel18/ai-chat-monitor"
+    },
+    {
+      "cat": "Web · Mobile",
+      "year": "2024",
+      "title": "Car Pooling System",
+      "desc": "A web and mobile platform that connects drivers who have empty seats with passengers heading the same way. It promotes cost-effective travel, reduces fuel use and helps ease traffic congestion and pollution.",
+      "tags": [
+        "Ride sharing",
+        "Web & mobile",
+        "Frontend + Backend"
+      ],
+      "url": "https://github.com/DharshiniVadivel18/ride_together"
+    }
+  ],
+  "skills": [
+    {
+      "group": "Programming",
+      "items": [
+        "C",
+        "C++",
+        "Java"
+      ]
+    },
+    {
+      "group": "Web technologies",
+      "items": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "group": "Frameworks & libraries",
+      "items": [
+        "React",
+        "Node.js",
+        "Express",
+        "Spring Boot"
+      ]
+    },
+    {
+      "group": "Databases",
+      "items": [
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "group": "Core concepts",
+      "items": [
+        "Data structures & algorithms",
+        "DBMS",
+        "OOPS"
+      ]
+    },
+    {
+      "group": "Tools",
+      "items": [
+        "VS Code",
+        "GitHub",
+        "Jupyter Notebook",
+        "Canva",
+        "Excel",
+        "PowerPoint"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2021 – 2022",
+      "title": "SSLC, 78%",
+      "text": "Vivek Vidyalaya Matric Hr. Sec. School."
+    },
+    {
+      "date": "2022 – 2024",
+      "title": "Higher secondary, 88.6%",
+      "text": "Completed HSC at Vivek Vidyalaya Matric Hr. Sec. School."
+    },
+    {
+      "date": "2024",
+      "title": "Started B.E. CSE (Cyber Security)",
+      "text": "Joined Sri Eshwar College of Engineering. Current CGPA 8.47, expected graduation 2028."
+    },
+    {
+      "date": "2024",
+      "title": "Third place at Createathon",
+      "text": "First podium finish, and the year I built Chat Monitor and the Car Pooling System."
+    },
+    {
+      "date": "2025",
+      "title": "Second place at Hack ML and Freshathon",
+      "text": "Also earned Cisco's Introduction to Cybersecurity, SkillRack's Java Programming and HackerRank's SQL problem-solving certificates."
+    },
+    {
+      "date": "2026",
+      "title": "Lemon CTF and my own forensics challenge",
+      "text": "Took part in the 24-hour Lemon CTF at Amrita Vishwa Vidyapeetham, designed a steganography CTF challenge and earned EC-Council's Network Defense Essentials."
+    },
+    {
+      "date": "July 2026",
+      "title": "Completed a full-stack internship",
+      "text": "Four months on-site at DevHorizon Technologies, working in an Agile team on React and Node.js applications."
+    }
+  ],
+  "certs": [
+    {
+      "year": "2026",
+      "title": "Network Defense Essentials",
+      "issuer": "EC-Council"
+    },
+    {
+      "year": "2025",
+      "title": "Introduction to Cybersecurity",
+      "issuer": "Cisco"
+    },
+    {
+      "year": "2025",
+      "title": "Java Programming",
+      "issuer": "SkillRack"
+    },
+    {
+      "year": "2025",
+      "title": "Problem Solving (SQL)",
+      "issuer": "HackerRank"
+    },
+    {
+      "year": "2024",
+      "title": "Python Programming Masterclass",
+      "issuer": "Udemy"
+    },
+    {
+      "year": "2024",
+      "title": "Mastering Data Structures & Algorithms using C & C++",
+      "issuer": "Udemy"
+    }
+  ],
+  "achievements": [
+    {
+      "place": "2nd",
+      "title": "Hack ML",
+      "year": "2025",
+      "note": ""
+    },
+    {
+      "place": "2nd",
+      "title": "Freshathon",
+      "year": "2025",
+      "note": ""
+    },
+    {
+      "place": "3rd",
+      "title": "Createathon",
+      "year": "2024",
+      "note": ""
+    },
+    {
+      "place": "Participant",
+      "title": "Lemon CTF (24 hours)",
+      "year": "2026",
+      "note": "Conducted by Amrita Vishwa Vidyapeetham"
+    }
+  ],
+  "coding": [
+    {
+      "name": "LeetCode",
+      "url": "https://leetcode.com/u/DHARSHINI_V18/",
+      "metrics": [
+        {
+          "label": "Contest rating",
+          "value": "1,444"
+        },
+        {
+          "label": "Global rank",
+          "value": "565,832"
+        },
+        {
+          "label": "Solved",
+          "value": "130+"
+        }
+      ]
+    },
+    {
+      "name": "SkillRack",
+      "url": "https://www.skillrack.com/faces/resume.xhtml?id=515137&key=052de83bba3bab2b642bf3ac88398d2f4fe5662e",
+      "metrics": [
+        {
+          "label": "Rank",
+          "value": "33,289"
+        },
+        {
+          "label": "Solved",
+          "value": "870+"
+        }
+      ]
+    }
+  ]
+}
